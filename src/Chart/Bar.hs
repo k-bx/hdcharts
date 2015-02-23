@@ -10,7 +10,7 @@ module Chart.Bar where
 import           Chart.Render
 import           Chart.Types
 import           Control.Applicative
-import           Control.Lens hiding ((<.>))
+import           Control.Lens hiding ((<.>), Action)
 import           Control.Monad
 import           Data.Default
 import           Data.Monoid

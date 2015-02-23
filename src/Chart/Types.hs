@@ -8,7 +8,7 @@
 module Chart.Types where
 
 import           Control.Applicative
-import           Control.Lens hiding ((<.>))
+import           Control.Lens hiding ((<.>), Action)
 import           Data.Default
 import           Data.Monoid
 import           Language.Javascript.JMacro.D3Expr

@@ -52,7 +52,7 @@ library
                      , data-default        
                      , foldl               
                      , foldl-incremental   
-                     , happstack-server >= 7.4.0    
+                     , happstack-server >= 7.3.9
                      , histogram-fill
                      , jmacro              
                      , language-javascript 
@@ -71,7 +71,7 @@ library
                      , pipes-safe          
                      , primitive           
                      , text
-                     , transformers >= 0.4.2.0        
+                     , transformers
                      , vector              
                      , websockets
 
@@ -96,7 +96,7 @@ executable example
                      , data-default        
                      , foldl               
                      , foldl-incremental   
-                     , happstack-server >= 7.4.0    
+                     , happstack-server >= 7.3.9
                      , histogram-fill
                      , jmacro              
                      , language-javascript 
@@ -115,6 +115,6 @@ executable example
                      , pipes-safe          
                      , primitive           
                      , text
-                     , transformers >= 0.4.2.0        
+                     , transformers
                      , vector              
                      , websockets
