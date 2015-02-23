@@ -52,7 +52,7 @@ library
                      , data-default        
                      , foldl               
                      , foldl-incremental   
-                     , happstack-server    
+                     , happstack-server >= 7.4.0    
                      , histogram-fill
                      , jmacro              
                      , language-javascript 
@@ -96,7 +96,7 @@ executable example
                      , data-default        
                      , foldl               
                      , foldl-incremental   
-                     , happstack-server    
+                     , happstack-server >= 7.4.0    
                      , histogram-fill
                      , jmacro              
                      , language-javascript 
